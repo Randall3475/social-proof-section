@@ -76,6 +76,7 @@ br {
   display: flex;
   align-items: center;
   margin-right: 32.45px;
+  column-gap: 8.46px;
 }
 
 .ratings__header {
